@@ -3,4 +3,4 @@ Realizamos una práctica de como usar la API de notificaciones de JavaScript y c
 
 **Tutorial**
 <br/><br/>
-https://youtu.be/NGq0lZHS90g
+https://youtu.be/2_jn9l0T7wI
